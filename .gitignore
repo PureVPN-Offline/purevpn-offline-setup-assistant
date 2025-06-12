@@ -1,0 +1,36 @@
+# Internal files - DO NOT COMMIT
+.internal/
+*.prompt.md
+*_TEMPLATE.md
+*_CREDENTIALS.md
+*_SETUP.md
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+pip-wheel-metadata/
+
+# Build artifacts
+dist/
+build/
+*.zip
+*.tar.gz
+*.rar 
